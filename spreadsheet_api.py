@@ -5,3 +5,6 @@ int generateSpreadsheet(str path, str format):
 
 int test  
 
+
+int extraMethod():
+    extraMethod
