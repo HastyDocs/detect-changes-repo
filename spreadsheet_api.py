@@ -13,3 +13,7 @@ int test
 
 int extraMethod():
     extraMethod
+
+
+int newAPI():
+    newMethod
