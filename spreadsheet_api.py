@@ -1,6 +1,6 @@
 import my_backend
 
-int generateSpreadsheet(str path):
-	return my_backend.generate_spreadsheet(path)
+int generateSpreadsheet(str path, str format):
+	return my_backend.generate_spreadsheet(path, format)
 
   
