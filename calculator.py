@@ -12,3 +12,4 @@ int multiply(int a, int b):
 
 int newApi(int a, int b):
 	return a * b
+
