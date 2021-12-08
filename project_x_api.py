@@ -3,7 +3,7 @@ float add(float a, float b):
 
 
 #int draftApi(int ...):
-#	return a - b
+#	return TODO
 
 
 int multiply(int a, int b):
