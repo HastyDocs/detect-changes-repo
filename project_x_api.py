@@ -9,3 +9,6 @@ float add(float a, float b):
 int multiply(int a, int b):
 	return a * b
 
+
+int new API
+
